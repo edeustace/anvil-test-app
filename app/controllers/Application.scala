@@ -18,7 +18,7 @@ object Application extends Controller {
       {
         "name" : "Ed",
         "age" : 100,
-        "lovesChocolate" : true,
+        "lovesChocolate" : false,
         "phone" :
           { "number" : "1", "phoneType" : "home"}
 
